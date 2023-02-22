@@ -18,4 +18,7 @@
 初始化 WebView -> 请求页面 -> 下载数据 -> 解析HTML -> 请求 js/css 资源 -> dom 渲染 -> 解析 JS 执行 -> JS 请求数据 -> 解析渲染 -> 下载渲染图片
 ![](https://nightwish.oss-cn-beijing.aliyuncs.com/2020/05/18/15895445172664.jpg)
 ![](image/WX20230222-113326.png)
-
+# iOS端原生引擎截图（源码暂时不能公开）
+![](image/WX20230222-140035.png)
+# 安卓原生引擎截图(源码暂时不能公开)
+![](image/WechatIMG226.jpeg)
