@@ -1,0 +1,20 @@
+{
+    "apps" : {
+          "name":"PackageOffline-0.0.1-SNAPSHOT",
+          "script":"java",
+          "args":[
+                  "-jar",
+                  "PackageOffline-0.0.1-SNAPSHOT.jar"
+           ],
+          
+          "error_file":"./log/err.log",
+          "out_file":"./log/out.log",
+          "merge_logs":true,
+          "log_date_format":"YYYY/MM/DD HH:mm:ss",
+                  "min_uptime": "60s", 
+          "max_restarts": 30,
+          "autorestart": true,
+                  "restart_delay": "60" 
+          }
+  }
+  
